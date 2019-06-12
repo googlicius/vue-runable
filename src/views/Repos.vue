@@ -16,8 +16,6 @@
 </template>
 
 <script>
-/*eslint no-console: 0*/
-
 import { mapMutations, mapState } from 'vuex'
 import Header from '../components/Header'
 import { fetchRepos } from '../utils/api'
